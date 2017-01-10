@@ -4,7 +4,9 @@ $(document).ready(function(){
       $("#like").html("You like this project!");
     });
     
-    
+    $("body").click(function(){
+        $("change").html("background-color","red")
+    });
     
     
 });
