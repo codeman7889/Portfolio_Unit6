@@ -1,12 +1,12 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://media.giphy.com/media/Z33rirvrmDjb2/giphy.gif");
       background-size: cover;
       color: white;
     }
-    .nav {
-      color: white;
-    }
+ .nav{
+   color:red;
+ }
     h1 {
       font-size: 70px;
       color: red;
@@ -38,4 +38,7 @@
         padding: 5px;
         display: block;
       }
+    }
+    #profile{
+      width:170px;
     }
